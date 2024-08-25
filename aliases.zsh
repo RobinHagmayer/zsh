@@ -8,3 +8,5 @@ alias la='ll -a'
 alias cp='cp -i'
 alias mv='mv -i'
 alias rm='rm -i'
+
+alias kickstart-nvim='NVIM_APPNAME=kickstart nvim'
