@@ -9,4 +9,4 @@ alias cp='cp -i'
 alias mv='mv -i'
 alias rm='rm -i'
 
-alias kickstart-nvim='NVIM_APPNAME=kickstart nvim'
+alias knvim='NVIM_APPNAME=kickstart nvim'
